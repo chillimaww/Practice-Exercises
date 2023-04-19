@@ -1,0 +1,22 @@
+button{
+    background-color: rgb(207, 124, 61);
+}
+h2 {
+    color: rgb(119, 183, 195);
+    border: 10ps solid rgb(80, 226, 104)
+}
+p {
+color: rgb(159, 159, 18);
+font-style: oblique;
+font-size: 700%;
+}
+a{
+    color: rgb(111, 185, 182);
+    background-color: rgb(89, 89, 226);
+}
+
+[data-theme="dark"] {
+    --color: #bbb;
+  --color-accent: #fff;
+  --color-bg: #333;
+}

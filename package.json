@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ljsthw-bandolier": "git+https://git.learnjsthehardway.com/learn-javascript-the-hard-way/ljsthw-bandolier.git"
+  }
+}
